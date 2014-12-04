@@ -1,0 +1,3 @@
+class RoverError < StandardError
+	
+end

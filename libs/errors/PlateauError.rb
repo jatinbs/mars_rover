@@ -1,0 +1,3 @@
+class PlateauError < StandardError
+	
+end
